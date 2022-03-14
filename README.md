@@ -46,7 +46,20 @@ specification itself and come with a *harness* which allows one to hook up the t
 suite to their implementation. Some languages may decide to specify themselves using
 only a test suite along side a reference.
 
+## Notation
+This document is generally organized like this:
+* Major Section (Specs, Implementations, Suites)
+	* Language Name (alphabetical order)
+		* Language Version (reverse chronological order)
+			* Links to specfication and other relevant links
+
 ## Specifications
+
+### General Resources
+* Wikipedia: https://en.wikipedia.org/wiki/Programming_language_specification
+* ISO 35.060 - Languages used in information technology: https://www.iso.org/ics/35.060/x/
+* IEEE 35.060 - Languages used in information technology: https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=%22Standards%20ICS%20Terms%22:35.060&matchBoolean=true&searchField=Search_All
+* Ecma International Standards - Software engineering and interfaces: https://www.ecma-international.org/publications-and-standards/standards/?order=category#Software-engineering-and-interfaces
 
 ### [Java](https://java.com/en/)
 
