@@ -1,6 +1,51 @@
 # awesome-language-specs
 A one-stop shop for everything programming language specifications, references, and test suites. 
 
+## Why?
+I have two reasons for starting this project:
+* Programming language specifications, espicially older ones, can be painfully
+hard to find if you aren't "in" on a specific language.
+* I enjoy fantisizing about implementing a languange and then never actually
+doing it or stopping early on because something else has caught my fancy.
+
+**You** on the other hand may find this project useful for a few reasons:
+* Language specs are hard to find.
+* Having a bunch of specs in one place makes it easy to study language
+design.
+* You can see how the design of a language has changed over time.
+
+## What is any of this stuff anyway?
+A *programming language specification* is a lot like a blueprint. It describes
+a language's design, including syntax, features, and runtime details. It's written
+by the creators of a programming language so that you can understand how it functions
+at a low level in order to write an implementation or hack on an existing one. Not all
+languages have one, but they are extremely useful for compiler and interpreter writers
+and help to justify a language's existance and design.
+
+A *programming language reference* acts as a language's manual. It gives the end-user
+a high-level overview of the language and helps them to learn how to write in it and
+make good use of its features. Most users of a language will likely reference (heh)
+the reference and never touch the specification, as the former is much more practical
+for daily usage of a language. Most programming languages have one; it would be really
+annoying to learn a language that has no documentation. If you're trying to implement
+a programming language, it's likely in your best interest to read the reference first
+before jumping headfirst if you're not already familiar with it.
+
+An *implementation* is a piece of software which implements (heheh) a specification.
+Most languages have a *model* implementation which most users are expected to use and
+can help implementers get a feel for the architecture of a langauge. Think Python and
+CPython, or C# and .NET, or Java and Java SE. Some languages, however, don't
+have a model implementation, like C (GCC, Clang) and JavaScript (SpiderMonkey, V8).
+Not all implementations follow the spec word-for-word: some are intentionally 
+incomplete, only wanting to maintain a "core" set of features, others extend it,
+and others still radically change a language just to experiment.
+
+A *test suite* allows an implementer to test if their implementation functions as the
+specification intends. They are usually written in the language described by the
+specification itself and come with a *harness* which allows one to hook up the test
+suite to their implementation. Some languages may decide to specify themselves using
+only a test suite along side a reference.
+
 ## Specifications
 
 ### [Java](https://java.com/en/)
