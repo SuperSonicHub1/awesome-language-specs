@@ -61,6 +61,32 @@ This document is generally organized like this:
 * IEEE 35.060 - Languages used in information technology: https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=%22Standards%20ICS%20Terms%22:35.060&matchBoolean=true&searchField=Search_All
 * Ecma International Standards - Software engineering and interfaces: https://www.ecma-international.org/publications-and-standards/standards/?order=category#Software-engineering-and-interfaces
 
+### [Dart](https://dart.dev/)
+
+### Language Features
+* Accepted: https://github.com/dart-lang/language/tree/master/accepted
+* Working Drafts: https://github.com/dart-lang/language/tree/master/working
+
+#### Latest
+* Specification: https://spec.dart.dev/DartLangSpecDraft.pdf
+* Source: https://github.com/dart-lang/language/blob/master/specification/dartLangSpec.tex
+
+### 5th Edition, Version 2.10 (April 9, 2021)
+* Specification: https://dart.dev/guides/language/specifications/DartLangSpec-v2.10.pdf
+
+### 4th Edition, Version 1.11 (August 19, 2015 / December 2015)
+* Specification: https://www.ecma-international.org/wp-content/uploads/ECMA-408_4th_edition_december_2015.pdf
+* Website: https://www.ecma-international.org/publications-and-standards/standards/ecma-408/
+
+### 3rd Edition, Version 1.9 (April 15, 2015 / June 2015)
+* Specification: https://www.ecma-international.org/wp-content/uploads/ECMA-408_3rd_edition_june_2015.pdf
+
+### 2nd Edition, Version 1.6 (November 21, 2014 / December 2014)
+* Specification: https://www.ecma-international.org/wp-content/uploads/ECMA-408_2nd_edition_december_2014.pdf
+
+### 1st Edition, Version 1.3 (March 27, 2014 / June 2014)
+* Specification: https://www.ecma-international.org/wp-content/uploads/ECMA-408_1st_edition_june_2014.pdf
+
 ### [Java](https://java.com/en/)
 
 #### SE 17 (September 2021)
